@@ -1,0 +1,4 @@
+shapeRenderer.dispose();
+        font.dispose();
+    }
+}
